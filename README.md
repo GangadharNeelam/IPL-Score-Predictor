@@ -1,6 +1,6 @@
 # Score_prediction_IPL
 ### Objective
-The objective is to predict the total score of the cricket match by using various features. Dataset contains ball by ball data of the matches played during the 10 seasons of IPL.
+The objective is to predict the total score of the cricket match by using various features. Dataset contains ball by ball data of the matches played during the 10 seasons of IPL. 
 
 ### Important features
     - venue: Stadium where match was played
