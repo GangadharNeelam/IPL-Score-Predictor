@@ -28,8 +28,8 @@ The objective is to predict the total score of the cricket match by using variou
 ![accuracies_score_prediction](https://user-images.githubusercontent.com/93145713/188705557-c02d6c7c-8610-42c1-88ca-7e08e1ca9c7f.png)
 
 ### Final model
-        - Random forest
-        - Accuracy score - 95.89%
-        - Mean Absolute Error (MAE): 3.32
-        - Mean Squared Error (MSE): 36.07
-        - Root Mean Squared Error (RMSE): 6.005
+- Random forest
+- Accuracy score - 95.89%
+- Mean Absolute Error (MAE): 3.32
+- Mean Squared Error (MSE): 36.07
+- Root Mean Squared Error (RMSE): 6.005
